@@ -18,7 +18,7 @@ Using data cleaning, visualization, and statistical analysis, this project aims 
 - `adult.csv` — Real life dataset used for the analysis
 
 ## 📚 Credits
-Tutorial by [Data Thinkers](https://www.youtube.com/c/DataThinkers)
+Tutorial by [Data Thinkers](https://youtu.be/6bNwzIm1-AY?si=0ibXW5iqaOTCJ0GF)
 
 ---
 
