@@ -5,7 +5,7 @@ This project is an Exploratory Data Analysis (EDA) on income classification data
 ## 📊 Objective
 The primary goal of this project is to explore the underlying patterns in a real-world income dataset and uncover the key socio-economic factors that influence the income of an individual.
 
-Through data cleaning, visualization, and statistical analysis, this project aims to gain meaningful insights into the data build a strong foundational understanding which could support future modeling or decision-making tasks.
+Using data cleaning, visualization, and statistical analysis, this project aims to gain meaningful insights into the data, build a strong foundational understanding which could support future modeling or decision-making tasks.
 ## 🔧 Tools Used
 - Python
 - Pandas
